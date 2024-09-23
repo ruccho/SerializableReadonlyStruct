@@ -1,4 +1,8 @@
 # SerializableReadonlyStruct
+
+> [!WARNING]
+> This package is currently very experimental.
+
 An IL Post-processor for Unity to make `readonly` structs serializable.
 
 `readonly` fields cannot be serialized by default in Unity, but this package allows you to serialize `readonly` fields in structs.
